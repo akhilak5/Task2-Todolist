@@ -1,9 +1,9 @@
 ## To-Do List App
 
-A simple web application where users can:
-Add tasks dynamically
-Mark tasks as complete
-Remove tasks from the list
+=> A simple web application where users can:
+=> Add tasks dynamically
+=> Mark tasks as complete
+=> Remove tasks from the list
 
 ## Features
 Responsive UI
