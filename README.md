@@ -19,5 +19,5 @@ JavaScript
 
 ## Usage
 1. Click the +Add button to enter a task.
-2️. Mark a task as complete by checking the box.
+2. Mark a task as complete by checking the box.
 3. Remove a task using the remove button.
