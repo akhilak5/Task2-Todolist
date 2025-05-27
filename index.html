@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To do list</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <h1 style="text-align: center;">TO DO LIST</h1>
+    <div id="add">
+        <button >+Add</button>
+    </div>
+    <form id="form" style="display: none;">
+        <input type="text" placeholder="Task" required>
+        <button type="submit">Add Task</button>
+    </form>
+    <table id="task-table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>complete</th>
+                <th>Remove</th>
+            </tr>
+        </thead>
+        <tbody id="task-body">
+
+        </tbody>
+        
+    </table>
+
+    <script src="todo.js"></script>
+</body>
+</html>
