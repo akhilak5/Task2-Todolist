@@ -16,6 +16,7 @@
 3.JavaScript
 
 ## Screenshot
+![To-Do List App](images/screenshot.png)
 
 ## Usage
 1. Click the +Add button to enter a task.
