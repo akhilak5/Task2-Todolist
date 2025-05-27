@@ -6,14 +6,14 @@
 4. Remove tasks from the list
 
 ## Features
-Responsive UI
-Instant updates without page reload
-Clean and simple design
+1.Responsive UI
+2.Instant updates without page reload
+3.Clean and simple design
 
 ## Built With
-HTML
-CSS
-JavaScript
+1.HTML
+2.CSS
+3.JavaScript
 
 ## Screenshot
 
